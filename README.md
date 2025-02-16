@@ -1,7 +1,9 @@
 - 👋 Hey! I’m Jase
+
+- I've got experience in all sorts of things, Web Development, Unity, VR development
 - 👀 I’m interested in helping others with their projects while I learn how to make my own
 - 🌱 I’m currently learning Computer Science. Aiming for a B.A Degree in CS.
-- I'm experienced in using C, C++, C#, Java, JavaScript, Python, HTML, and CSS, open to tackling anything new.
+- I've learned C, C++, C#, Java, JavaScript, Python, HTML, and CSS, open to tackling anything new.
 - 💞️ I’m looking to collaborate on anything and everything I can get my hands on.
 - 📫 How to reach me: jasehudsonscott@icloud.com , or through my LinkedIn on my page.
 - ⚡ Fun fact: Despite being a computer guy, I also enjoy being out in nature. Nothing is more relaxing than hiking and exploring with friends!
